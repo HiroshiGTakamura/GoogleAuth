@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "916494625285",
+    "project_id": "batata-72066",
+    "storage_bucket": "batata-72066.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916494625285:android:6df9f58f2115c3a7ef0a6c",
+        "android_client_info": {
+          "package_name": "com.example.sasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916494625285-m24ot40sbkf3lg87mbjt523q0ith2i10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sasa",
+            "certificate_hash": "3fa318d40c6cb4cc60281211d89e1ba1f4f413e5"
+          }
+        },
+        {
+          "client_id": "916494625285-fvcaalbek1j8u2plks8uu9b2k2l09jut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv2mCjvFLjinw5_TOhZNNx0juWuuJRe-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916494625285-fvcaalbek1j8u2plks8uu9b2k2l09jut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
